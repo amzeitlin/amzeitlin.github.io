@@ -1,0 +1,14 @@
+A {
+        text-decoration: none;
+        color : Blue;
+        background: transparent ;
+        border-style:none;
+}
+
+A:HOVER {
+        text-decoration : underline;
+        color : Blue ;
+        background: LightYellow ;
+        border-style: none;
+}
+
